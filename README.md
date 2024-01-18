@@ -50,7 +50,7 @@ Uno  a experiência da segurança pública com a expertise em tecnologia para de
 ;)
 <br>
 <a href="https://www.linkedin.com/in/luizarnoni/"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /></a>
-<a href="instagram.com/luiz.arnoni"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /></a>
+<a href="http://instagram.com/luiz.arnoni"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /></a>
 
 <!--
 **arnoniscript/arnoniscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
