@@ -9,7 +9,7 @@ Sou um jovem policial mineiro (embora  capixaba rs) em  transição de carreira 
 <br><br>
 Uno  a experiência da segurança pública com a expertise em tecnologia para deixar uma marca positiva no mundo. 
 📕  Escrevi sobre  isso em meu livro, Código de Impacto, nas melhores  livrarias e na Amazon.
-
+<br><br>
 <div style="display: flex; width:  80vw; background-color: white">
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
