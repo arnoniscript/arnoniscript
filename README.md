@@ -46,8 +46,11 @@ Uno  a experiência da segurança pública com a expertise em tecnologia para de
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 
 </div>
-
-
+<br>
+;)
+<br>
+<a href="https://www.linkedin.com/in/luizarnoni/"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="instagram.com/luiz.arnoni"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **arnoniscript/arnoniscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
