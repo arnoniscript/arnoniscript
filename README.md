@@ -49,7 +49,8 @@ Uno  a experiência da segurança pública com a expertise em tecnologia para de
 <br>
 ;)
 <br>
-<a href="https://www.linkedin.com/in/luizarnoni/"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /></a>
+<a href="https://www.linkedin.com/in/luizarnoni/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 <a href="http://instagram.com/luiz.arnoni"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg" /></a>
 
 <!--
