@@ -49,6 +49,11 @@ Uno  a experiência da segurança pública com a expertise em tecnologia para de
 <br>
 ;)
 <br>
+<br>
+
+<br>
+<br>
+
 <a href="https://www.linkedin.com/in/luizarnoni/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
