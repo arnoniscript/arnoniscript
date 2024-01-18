@@ -7,8 +7,8 @@ Sou um jovem policial mineiro (embora  capixaba rs) em  transição de carreira 
 🎓 Engenharia de Software - Estácio de Sá<br>
 🎓 Ciência de Dados - UFMS
 <br><br>
-Uno  a experiência da segurança pública com a expertise em tecnologia para deixar uma marca positiva no mundo. 
-📕  Escrevi sobre  isso em meu livro, Código de Impacto, nas melhores  livrarias e na Amazon.
+Uno  a experiência da segurança pública com a expertise em tecnologia para deixar uma marca positiva no mundo. <br>
+📕  Escrevi sobre  isso em <a href="https://www.amazon.com.br/C%C3%B3digo-Impacto-Luiz-Arnoni-Fraga-ebook/dp/B0CM1GX73M/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2JGTQMREJAQMG&keywords=codigo+de+impacto&qid=1698681705&sprefix=codigo+de+impac%2Caps%2C234&sr=8-1"> meu livro, Código de Impacto, </a> nas melhores  livrarias e na Amazon.
 <br><br>
 <div style="display: flex; width:  80vw; alignItems: center">
 <img src="https://img.shields.io/badge/FrontEnd-Stacks-blue" />
