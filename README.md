@@ -3,9 +3,10 @@
 Sou um jovem policial mineiro (embora  capixaba rs) em  transição de carreira  para o mundo dev.
 
 🎓 Formado em Direito com especialização em direitos humanos
-🎓 Engenharia de Software - Estácio de Sá
+<br>
+🎓 Engenharia de Software - Estácio de Sá<br>
 🎓 Ciência de Dados - UFMS
-
+<br><br>
 Uno  a experiência da segurança pública com a expertise em tecnologia para deixar uma marca positiva no mundo. 
 📕  Escrevi sobre  isso em meu livro, Código de Impacto, nas melhores  livrarias e na Amazon.
 
