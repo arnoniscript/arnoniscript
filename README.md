@@ -53,7 +53,7 @@ Uno  a experiência da segurança pública com a expertise em tecnologia para de
 
 <br>
 <br>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="007a0a7a-1b7e-434f-a813-00d9776b78e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <a href="https://www.linkedin.com/in/luizarnoni/"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
