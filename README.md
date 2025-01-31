@@ -1,6 +1,5 @@
 ### Oi, eu sou o Luiz! 👋
 
-Sou um jovem policial mineiro (embora  capixaba rs) em  transição de carreira  para o mundo dev.
 
 🎓 Formado em Direito com especialização em direitos humanos
 <br>
