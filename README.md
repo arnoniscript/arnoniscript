@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Luiz%20Arnoni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intelig%C3%AAncia%20Artificial%20%E2%80%A2%20Ci%C3%AAncia%20de%20Dados%20%E2%80%A2%20Pesquisa&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Luiz%20Arnoni&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Intelig%C3%AAncia%20Artificial%20%E2%80%A2%20Ci%C3%AAncia%20de%20Dados%20%E2%80%A2%20Pesquisa&descSize=18&descAlignY=55" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=Principal+de+Intelig%C3%AAncia+Artificial+%40+Marisa+Care;Pesquisador+na+%C3%A1rea+de+IA+%7C+LLMs+%26+Agentes;Do+Direito+%C3%A0+Intelig%C3%AAncia+Artificial+%F0%9F%9A%80;Autor+de+C%C3%B3digo+de+Impacto+%F0%9F%93%95" alt="Typing SVG" />
 
@@ -57,14 +57,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 GitHub
+## 🔬 Pesquisa & interesses
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arnoniscript&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoniscript&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&locale=pt-br" alt="Linguagens mais usadas" />
-
-</div>
+- 🧩 **LLMs e agentes autônomos** — arquitetura, orquestração e uso em produção
+- 📏 **Avaliação e observabilidade de sistemas de IA** — como saber se a IA está realmente funcionando
+- 🏥 **IA aplicada à saúde** — tecnologia que cuida de gente
+- 💸 **Economia de IA (FinOps)** — custo por interação, eficiência e sustentabilidade de produtos com LLM
 
 ## 📕 Código de Impacto
 
